@@ -1,1 +1,1 @@
-Shell permissions
+#!/bin/bash
